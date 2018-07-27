@@ -23,3 +23,4 @@ Reference:
 - Rob A. Rutenbar, "Simulated Annealing Algorithms: An Overview," IEEE Circuit and Devices Magazine, pp. 19-26, Jan. 1989.
 -	Mathew J. Conway, "The SUIT version 2.3 Reference Manual," Computer Science Department, University of Virginia, 1992.
 -	Mattew Conway, Randy Pausch, Kimberly Passarella, "A Tutorial for SUIT*The Simple User Interface Toolkit," Computer Science Department, University of Virginia, 1992.
+- Massound Pedram and Bryan Preas, "Benchmarks for general cell floorplanning," Computer Science Laboratory, Xerox Palo Alto Research Center, Palo Alto, CA 94304
