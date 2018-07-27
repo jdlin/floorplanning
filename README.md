@@ -20,6 +20,6 @@ Simulated Annealing Algorithm for Floorplan
 
 Reference:
 
-- [1] Rob A. Rutenbar, "Simulated Annealing Algorithms: An Overview," IEEE Circuit and Devices Magazine, pp. 19-26, Jan. 1989.
-- [2]	Mathew J. Conway, "The SUIT version 2.3 Reference Manual," Computer Science Department, University of Virginia, 1992.
-- [3]	Mattew Conway, Randy Pausch, Kimberly Passarella, "A Tutorial for SUIT*The Simple User Interface Toolkit," Computer Science Department, University of Virginia, 1992.
+- Rob A. Rutenbar, "Simulated Annealing Algorithms: An Overview," IEEE Circuit and Devices Magazine, pp. 19-26, Jan. 1989.
+-	Mathew J. Conway, "The SUIT version 2.3 Reference Manual," Computer Science Department, University of Virginia, 1992.
+-	Mattew Conway, Randy Pausch, Kimberly Passarella, "A Tutorial for SUIT*The Simple User Interface Toolkit," Computer Science Department, University of Virginia, 1992.
